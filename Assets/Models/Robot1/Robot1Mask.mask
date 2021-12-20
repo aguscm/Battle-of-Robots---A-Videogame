@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Robot1Mask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Arm
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 1
+  - m_Path: Armature/Hips
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Head 1
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Head 1/Head_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Left/Upper_Arm_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Left/Upper_Arm_Left/Lower_Arm_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Left/Upper_Arm_Left/Lower_Arm_Left/Hand_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Left/Upper_Arm_Left/Lower_Arm_Left/Hand_Left/Hand_Left_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Right/Upper_Arm_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Right/Upper_Arm_Right/Lower_Arm_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Right/Upper_Arm_Right/Lower_Arm_Right/Hand_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Spine/Chest/Upper_Chest/Shoulder_Right/Upper_Arm_Right/Lower_Arm_Right/Hand_Right/Hand_Right_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Left/Lower_Leg_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Left/Lower_Leg_Left/Foot_Left
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Left/Lower_Leg_Left/Foot_Left/Foot_Left_end
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Right/Lower_Leg_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Right/Lower_Leg_Right/Foot_Right
+    m_Weight: 1
+  - m_Path: Armature/Hips/Upper_Leg_Right/Lower_Leg_Right/Foot_Right/Foot_Right_end
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 1
+  - m_Path: Head
+    m_Weight: 1
+  - m_Path: Leg
+    m_Weight: 1
+  - m_Path: Robot
+    m_Weight: 1
